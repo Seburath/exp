@@ -1,0 +1,13 @@
+version: 1
+
+modules:
+  strategies:
+    dir: '/app/strategies'  
+    strat1:
+      dir: '/app/strategies/strat1'
+    strat2:
+      dir: '/app/strategies/strat2'
+  brokers:
+    dir: '/app/brokers'
+    alpaca:
+      dir: '/app/brokers/alpaca'
