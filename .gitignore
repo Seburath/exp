@@ -1,0 +1,20 @@
+# Ignore everything
+*
+# ...even if they are in subdirectories
+!*/
+
+# But not these files:
+!.gitignore
+!README.rst
+!Dockerfile
+!docker-compose.yml
+!cyberhead-compose.yml
+!setup.py
+
+# tracked files in subdirectories:
+!*/cyberhead/requirements.txt
+!*/cyberhead/__init__.py
+!*/cyberhead/builder.py
+!*/cyberhead/wrapper.py
+!*/cyberhead/logger.py
+!*/cyberhead/core/tasker.py
