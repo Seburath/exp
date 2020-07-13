@@ -11,10 +11,9 @@
 !cyberhead-compose.yml
 !setup.py
 
-# tracked files in subdirectories:
-!*/cyberhead/requirements.txt
-!*/cyberhead/__init__.py
-!*/cyberhead/builder.py
-!*/cyberhead/wrapper.py
-!*/cyberhead/logger.py
+!cyberhead/requirements.txt
+!cyberhead/__init__.py
+!cyberhead/builder.py
+!cyberhead/wrapper.py
+!cyberhead/logger.py
 !cyberhead/tasker.py
