@@ -17,4 +17,4 @@
 !*/cyberhead/builder.py
 !*/cyberhead/wrapper.py
 !*/cyberhead/logger.py
-!*/cyberhead/core/tasker.py
+!cyberhead/tasker.py
