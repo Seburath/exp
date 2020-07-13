@@ -1,7 +1,7 @@
 from threading import Timer
 from termcolor import colored
 
-from builder import read_compose
+from cyberhead.builder import read_compose
 
 
 RUNNING = colored('RUNNING', 'green')

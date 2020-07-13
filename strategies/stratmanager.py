@@ -1,7 +1,7 @@
 def run_strategies(strategies):
     for strategy in strategies:
         exec(f'''
-from cyberhead.strategies.strategies.{strategy} import {strategy}
+from cyberhead.strategies.{strategy} import {strategy}
 from backtesting import Backtest, Strategy
 
 
