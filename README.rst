@@ -32,14 +32,8 @@ the Docs site`_.
 .. _CyberHead documentation: https://docs.readthedocs.io/
 
 
-Get in touch
-------------
-
-You can find information about getting in touch with Read the Docs at our `Contribution page <https://docs.readthedocs.io/en/latest/contribute.html#get-in-touch>`_.
-
-
-Contributing
-------------
+Get in touch and Contributing
+-----------------------------
 
 We are on a early stage of development the best is to contact us at  `Telegram <t.me/thecyberhead>`_.
 
