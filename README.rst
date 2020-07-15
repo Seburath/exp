@@ -18,8 +18,11 @@ Purpose
 
 CyberHead search to democatizase the smart trading by getting easier to write strategies and test them with past data,
 this will help to:
+
 -Democratize the knowledge behind Quantitative Analysis.
+
 -Contributing to an Open Source Community for trading.
+
 -Detect scammers that try to sell out strategies in "Get Rich" courses.
 
 
