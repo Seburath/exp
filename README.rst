@@ -23,7 +23,7 @@ this will help to:
 
 -Contributing to an Open Source Community for trading.
 
--Detect scammers that try to sell out strategies in "Get Rich" courses.
+-Detect scammers that sell out strategies in "Get Rich" courses.
 
 
 Documentation for RTD
