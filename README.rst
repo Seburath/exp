@@ -16,7 +16,7 @@ Welcome to CyberHEad
 Purpose
 -------
 
-CyberHead search to democatizase the smart trading by getting easier to write strategies and test them with past data,
+CyberHead search to democatizase the smart trading by getting easier to write strategies and backtest them with past data,
 this will help to:
 
 -Democratize the knowledge behind Quantitative Analysis.
