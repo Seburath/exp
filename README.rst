@@ -26,7 +26,7 @@ this will help to:
 -Detect scammers that sell out strategies in "Get Rich" courses.
 
 
-Documentation for RTD
+Documentation for CyberHEad
 ---------------------
 
 You will find complete documentation for setting up your project at `the Read
