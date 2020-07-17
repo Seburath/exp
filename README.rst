@@ -26,14 +26,6 @@ this will help to:
 -Detect scammers that sell out strategies in "Get Rich" courses.
 
 
-Documentation for CyberHEad
----------------------
-
-You will find complete documentation for setting up your project at `the Read
-the Docs site`_.
-
-.. _CyberHead documentation: https://docs.readthedocs.io/
-
 
 Get in touch and Contributing
 -----------------------------
